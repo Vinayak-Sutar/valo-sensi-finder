@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Dataset files (too large for GitHub)
+dataset/
+datasetcomplete/
+data/
+
+# Model weights in root (large files)
+*.pt
+
+# Video files
+*.mp4
+*.avi
+*.mkv
+*.mov
+video_samples/
+
+# Temporary files
+*.tmp
+*.log
+screen_record.avi
+click_times.txt
+
+# OS files
+Thumbs.db
+.DS_Store
