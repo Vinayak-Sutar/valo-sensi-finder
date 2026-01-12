@@ -40,6 +40,18 @@ The folder contains:
 - Sample input video from Valorant practice range
 - Output video with bot head detections
 
+## 🏋️ Pre-trained Weights
+
+**Trained model weights are included!** No need to train from scratch.
+
+```
+runs/detect/train7/weights/
+├── best.pt    # Best performing model
+└── last.pt    # Final epoch model
+```
+
+Use `best.pt` directly with `testvid.py` to test on your own videos.
+
 ## 🚀 Quick Start
 
 ### 1. Clone & Install
