@@ -34,9 +34,11 @@ valo-sensi-finder/
 
 Check out the model in action:
 
-https://github.com/user-attachments/assets/YOUR_VIDEO_ID
+📁 **[Sample & Result Videos (Google Drive)](https://drive.google.com/drive/folders/1podI0rptCis3NK1adYWPAIsIxEtsrzXY?usp=sharing)**
 
-> Upload your result video to GitHub and replace the link above.
+The folder contains:
+- Sample input video from Valorant practice range
+- Output video with bot head detections
 
 ## 🚀 Quick Start
 
