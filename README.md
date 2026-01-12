@@ -30,16 +30,13 @@ valo-sensi-finder/
         └── predict/   # Sample prediction outputs
 ```
 
-## 📊 Training Results
+## 📊 Results
 
-The model was trained for 50 epochs on a custom dataset. Results are in `runs/detect/train7/`:
+Check out the model in action:
 
-| Metric | Description |
-|--------|-------------|
-| `results.png` | Training loss curves |
-| `confusion_matrix.png` | Classification performance |
-| `BoxPR_curve.png` | Precision-Recall curve |
-| `val_batch*_pred.jpg` | Validation predictions |
+https://github.com/user-attachments/assets/YOUR_VIDEO_ID
+
+> Upload your result video to GitHub and replace the link above.
 
 ## 🚀 Quick Start
 
